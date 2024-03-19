@@ -9,7 +9,7 @@ description: >
   
   Open `_featured_tags/hyde.md` to edit this text.
 accent_color: '#f0b841'
-accent_image:
+accent_image: /assets/img/orange.png
   background: '#202020'
   overlay:    false
 ---

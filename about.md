@@ -2,10 +2,7 @@
 layout: about
 title: About
 description: >
-  **안녕하세요**
-  **Hello**
-  **Bonjour**
-  **Ciao**
+  **안녕하세요**  **Hello**  **Bonjour**  **Ciao**
 menu: true
 order: 4
 ---
@@ -68,7 +65,7 @@ This table details what is and isn't included in each respective version.
 
 [^4]: Actual page load speed depends on your hosting provider, resolution of embedded images and usage of 3rd party plugins.   -->
 
-### Awards
+## Awards
 
 <!-- 
 Syntax highlighting powered by [Rouge].
