@@ -6,6 +6,7 @@ menu: true
 order: 3
 description: >
   그때그때의 느낌이나 생각
-  
-  Open `_featured_tags/hydejack.md` to edit this text.
+
+
 ---
+

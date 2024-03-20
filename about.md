@@ -9,6 +9,11 @@ order: 4
 
 ## Contact
 
+---
+description: >
+  정영준
+  E-mail : jyjun5766@naver.com
+
 <!-- There are two versions of **Hydejack**: The *free version* includes basic blogging functionality,
 as did previous versions of the theme.
 The *PRO version* includes additional features for professionals:
@@ -39,6 +44,10 @@ This table details what is and isn't included in each respective version.
       For more, see the [PRO] license. -->
 
 ## Education
+
+2019 ~
+
+계명대학교 수학과, 컴퓨터공학과 (4학년 재학 중)
 
 <!-- Both versions include these features:
 
